@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4527A0</color>
+    <color name="colorPrimaryDark">#311B92</color>
+    <color name="colorAccent">#E3F2FD</color>
+    <color name="primary_color">#000000</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#0D47A1</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#42A5F5</color>
+
+    <!-- Background color for the beaches category -->
+    <color name="category_beaches">#1A237E</color>
+
+    <!-- Background color for the museums category -->
+    <color name="category_museums">#0D47A1</color>
+
+    <!-- Background color for the restaurants category -->
+    <color name="category_restaurants">#1976D2</color>
+
+    <!-- Background color for the other category -->
+    <color name="category_other">#42A5F5</color>
+</resources>

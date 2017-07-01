@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Alexandria Tour Guide Mini App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="g_beach">Glime Beach</string>
+    <string name="m_beach">Mamoura Beach</string>
+    <string name="ss_beach">San Stifanu Beach</string>
+    <string name="s_beach">Stanley Beach</string>
+    <string name="g_addBeach">San Stifano,Qism ElRaml,Alexandria,Egypt</string>
+    <string name="m_addBeach">Mamoura,Alexandria,Egypt</string>
+    <string name="ss_addBeach">San Stefano,Alexandria,Egypt</string>
+    <string name="s_addBeach">Stanley Bridge,Alexandria,Egypt</string>
+
+    <string name="t_res">Tejano Mexican Grill</string>
+    <string name="b_res">Balbaa Village</string>
+    <string name="d_res">Dahab Restaurant</string>
+    <string name="l_res">L Passage</string>
+    <string name="b_addres">an Stifano Qism ElRaml Alexandria</string>
+    <string name="d_addres"> Omar Lotfy,Al Ibrahimeyah Bahri,Qesm Bab Sharqi, Alexandria</string>
+    <string name="t_addres">Estoret Louran Tower،19 Al Akbal,San Stifano,Qism El-Montaza,Alexandria</string>
+    <string name="l_addres">52 Street,Fouad, Alexandira</string>
+
+    <string name="r_mus">Royal Jewelry Museum</string>
+    <string name="a_mus">Alexandria National Museum</string>
+    <string name="g_mus">Graeco-Roman Museum</string>
+    <string name="c_mus">Cavafy Museum</string>
+    <string name="r_addmus">27 Ahmed Yehia Pasha, Alexandria</string>
+    <string name="a_addmus">El-Shaheed Galal El-Desouky,Qesm Bab Sharqi,Alexandria</string>
+    <string name="g_addmus">Al Mesallah Sharq,Qesm Al Attarin,Alexandria</string>
+    <string name="c_addmus">Salah Moustafa street,at the end of Cavafy street,Alexandria</string>
+
+    <string name="c_oth">Citadel of Qaitbay</string>
+    <string name="p_oth">Planetarium Science Center </string>
+    <string name="r_oth">Roman Theatre and Bathhouse</string>
+    <string name="cc_oth">Catacombs of Kom El Shoqafa</string>
+    <string name="c_addoth">As Sayalah Sharq,Qesm Al Gomrok,Alexandria</string>
+    <string name="p_addoth">El-Gaish Rd, Al Azaritah,Qesm Bab Sharqi,Alexandria</string>
+    <string name="r_addoth">Kom Ad Dakah Gharb,Qesm Al Attarin,Alexandria</string>
+    <string name="cc_addoth">Kafr Al Ghates,Qesm Karmouz,Alexandria</string>
+</resources>
