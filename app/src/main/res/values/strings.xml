@@ -2,7 +2,10 @@
     <string name="app_name">Alexandria Tour Guide Mini App</string>
 
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="beach">Beach</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="museum">Museum</string>
+    <string name="other">Other</string>
     <string name="g_beach">Glime Beach</string>
     <string name="m_beach">Mamoura Beach</string>
     <string name="ss_beach">San Stifanu Beach</string>
@@ -38,4 +41,8 @@
     <string name="p_addoth">El-Gaish Rd, Al Azaritah,Qesm Bab Sharqi,Alexandria</string>
     <string name="r_addoth">Kom Ad Dakah Gharb,Qesm Al Attarin,Alexandria</string>
     <string name="cc_addoth">Kafr Al Ghates,Qesm Karmouz,Alexandria</string>
+    <string name="beaches">Beaches</string>
+    <string name="museums">Museums</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="others">Other</string>
 </resources>
